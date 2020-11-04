@@ -7,7 +7,7 @@
 
 - 👨‍💻 Learn about my experiences & projects at [https://carolineoldportfolio.netlify.app/](https://carolineoldportfolio.netlify.app/)
 
-- 📫 How to reach me **carolinejold@gmail.com**
+- 📫 Reach me at **carolinejold@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
