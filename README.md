@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caroline Old</h1>
 <h3 align="center">Law graduate turned Full Stack JavaScript Developer, with a passion for Front End Web Development!</h3>
 <h3 align="center">Successfully graduated from </salt> School of Applied Technology's highly intensive 3 month bootcamp in Stockholm</h3>
-<h3 align="center">Open to opportunities </h3>
+<h3 align="center">✨ Open to opportunities ✨</h3> 
 
 - 🌱 I’m currently focusing on learning **TypeScript & GraphQL**
 
