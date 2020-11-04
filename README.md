@@ -7,8 +7,6 @@
 
 - 👨‍💻 Learn about my experiences & projects at [https://carolineoldportfolio.netlify.app/](https://carolineoldportfolio.netlify.app/)
 
-- 📝 I regularly post on [https://www.instagram.com/caroline_codes/](https://www.instagram.com/caroline_codes/)
-
 - 📫 How to reach me **carolinejold@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
