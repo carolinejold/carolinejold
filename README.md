@@ -3,7 +3,7 @@
 <h4 align="center">Successfully graduated from </salt> School of Applied Technology's highly intensive 3 month bootcamp in Stockholm</h4>
 <h4 align="center">✨ Open to opportunities ✨</h4> 
 
-- 🌱 I’m currently focusing on learning **TypeScript & GraphQL**
+- 🌱 I’m currently focusing on learning **GraphQL**
 
 - 👨‍💻 Learn about my projects & experience at [https://carolineoldportfolio.netlify.app/](https://carolineoldportfolio.netlify.app/)
 
