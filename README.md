@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently focusing on learning **Svelte**
 
-- 👨‍💻 Learn about my projects & experience **[here](https://carolineoldportfolio.netlify.app/)** & 📫 reach me via **[LinkedIn](https://linkedin.com/in/carolinejold/)**
+- 👨‍💻 Learn about my projects & experience **[here](https://carolineoldportfolio.netlify.app/)** & reach me via **[LinkedIn](https://linkedin.com/in/carolinejold/)** 📫
 
 <h3 align="center">Languages and Tools:</h3>
 <h2 align="center">Languages</h3>
