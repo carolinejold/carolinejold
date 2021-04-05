@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caroline Old</h1>
 <h3 align="center">✨ Law graduate turned Front End Software Engineer! ✨</h3>
-<h4 align="center">Successfully graduated with diploma from </salt> School of Applied Technology's highly intensive 3 month bootcamp in Stockholm</h4>
+<h4 align="center">Successfully graduated with full stack diploma from </salt> School of Applied Technology's highly intensive 3 month bootcamp in Stockholm</h4>
 
 - 🌱 I’m currently focusing on learning **Svelte**
 
