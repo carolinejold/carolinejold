@@ -6,7 +6,7 @@
 
 - 👨‍💻 Learn about my projects & experience **[here](https://carolineoldportfolio.netlify.app/)**
 
-- 📫 Reach me by **[Email](carolinejold@gmail.com)** or **[LinkedIn](https://linkedin.com/in/carolinejold/)**
+- 📫 Reach me via **[LinkedIn](https://linkedin.com/in/carolinejold/)**
 
 <h3 align="center">Languages and Tools:</h3>
 <h2 align="center">Languages</h3>
