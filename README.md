@@ -2,6 +2,7 @@
 <h3 align="center">✨ Law graduate turned Front End Software Engineer! ✨</h3>
 <h4 align="center">Successfully graduated with Full Stack Web Development diploma from </salt> School of Applied Technology's highly intensive 3 month bootcamp in Stockholm</h4>
 
+- 💡 Currently learning **Solidity** & smart contract development
 - 👨‍💻 Learn about my projects & experience **[here](https://carolineoldportfolio.netlify.app/)** & reach me via **[LinkedIn](https://linkedin.com/in/carolinejold/)** 📫
 
 <h3 align="center">Languages and Tools:</h3>
