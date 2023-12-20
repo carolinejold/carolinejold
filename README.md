@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caroline Old</h1>
+<h1 align="center">Hi 👋, I'm Caroline</h1>
 <h3 align="center">✨ Law graduate turned Front End Software Engineer! ✨</h3>
 <h4 align="center">Successfully graduated with Full Stack Web Development diploma from </salt> School of Applied Technology's highly intensive 3 month bootcamp in Stockholm</h4>
 
