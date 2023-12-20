@@ -3,7 +3,6 @@
 <h4 align="center">Successfully graduated with Full Stack Web Development diploma from </salt> School of Applied Technology's highly intensive 3 month bootcamp in Stockholm</h4>
 
 - 💡 I work with **ReactJS & TypeScript**!
-- 👨‍💻 Learn about my projects & experience **[here](https://carolineoldportfolio.netlify.app/)** or reach me via **[LinkedIn](https://linkedin.com/in/carolinejold/)** 📫
 
 <h3 align="center">Languages and Tools:</h3>
 <h4 align="center">Languages</h3>
